@@ -1,0 +1,13 @@
+{
+    "name": "infinity-tools",
+    "url": "https://github.com/h4master/Infinity-Engine-Stuff",
+    "licence": "Apache-2.0",
+    "tags": ["game", "openfl", "flash", "html5", "neko", "cpp", "android", "ios", "cross"],
+    "description": "Just FNF Infinity Engine Stuff",
+    "version": "0.1.0",
+    "releaseNote": "",
+    "contributors": ["h4master", "ElectroPea", "Kriptel"],
+	"dependencies": {},
+
+    "classPath": "source"
+}
